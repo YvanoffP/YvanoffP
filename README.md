@@ -7,6 +7,6 @@ Welcome on my GitHub.
 
 💻 Learning C, C++ and bash mainly
 
-📧 Contact me at : petruzzi.yvan@gmail.com
+📧 Contact me: petruzzi.yvan@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YvanoffP&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
