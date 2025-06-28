@@ -3,9 +3,9 @@
 
 Welcome on my GitHub.
 
-👨‍🏫 Learning @42 School in Lausanne
+👨‍🏫 Alumni @42 School in Lausanne
 
-💻 Learning C, C++ and bash mainly
+💻 Working with: Typescript, React, Python, Docker and many more!
 
 📧 Contact me: petruzzi.yvan@gmail.com
 
